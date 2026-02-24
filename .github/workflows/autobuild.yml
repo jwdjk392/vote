@@ -19,7 +19,7 @@ jobs:
       run: npm install
     - name: Build it
       run: npm run build-win
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v6
       with:
         name: Windows Build
         path: dist/vote-setup-*
