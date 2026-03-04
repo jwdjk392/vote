@@ -1,5 +1,5 @@
 # 투표및 뽑기 프로그램
-학급에서 투표를 하거나 추첨을 할때 유명한 프로그램
+학급에서 투표를 하거나 추첨을 할때 유용한 프로그램
 ## 빌드 현황
 [![Automatically build when changes are commited](https://github.com/baejeongwan/vote/actions/workflows/autobuild.yml/badge.svg)](https://github.com/baejeongwan/vote/actions/workflows/autobuild.yml)
 ## 다운로드

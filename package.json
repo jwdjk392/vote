@@ -1,6 +1,6 @@
 {
   "name": "vote",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Vote and Random software",
   "main": "main.js",
   "scripts": {
